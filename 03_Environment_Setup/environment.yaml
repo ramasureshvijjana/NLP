@@ -1,4 +1,4 @@
-name: ml
+name: nlp
 channels:
   - conda-forge
   - defaults
